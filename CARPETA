@@ -1,0 +1,40 @@
+{
+ "cells": [
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Exercises Week 1\n",
+    "* Genera un espacio muestral para el experimento de lanzar dos dados y calcular la suma de los números. Asegúrate de que el espacio muestral tenga en cuenta que algunos resultados son más probables que otros.\n",
+    "* Realiza una simulación de 1000 tiradas de una moneda cargada que cae en cara con una probabilidad de 0.7 y en cruz con una probabilidad de 0.3. simular las tiradas y calcula la proporción de caras.\n",
+    "*  Simular 100 lanzamientos de una moneda justa (probabilidad de cara = 0.5), repetido 1000 veces. Calcula la proporción de experimentos en los que salieron más de 60 caras.\n",
+    "* Una urna contiene 5 bolas rojas, 3 bolas azules y 2 bolas verdes. Simula 1000 selecciones de 3 bolas sin reemplazo y calcula la proporción de veces que se seleccionaron 2 bolas rojas y 1 bola azul.\n",
+    "* En un juego de cartas, la probabilidad de recibir un as en la primera carta es 4/52. Simula 10000 juegos y calcula la proporción de juegos en los que se recibió un as en la primera carta.\n",
+    "* Considera un examen de opción múltiple con 5 preguntas, cada una con 4 opciones, y sólo una opción es correcta. Si un estudiante responde al azar, simula 1000 veces el examen y calcula la proporción de exámenes en los que el estudiante acertó al menos 3 preguntas.\n",
+    "* Simula 1000 tiradas de dos dados y calcula la proporción de veces que la suma de los números fue 7. ¿Se corresponde esta proporción con la probabilidad teórica de 1/6?\n",
+    "* Supongamos que tienes una moneda que cae cara con una probabilidad de 0.3 y cruz con una probabilidad de 0.7. Si lanzas la moneda 10 veces, calcula la probabilidad de obtener exactamente 4 caras.\n",
+    "* En un examen de opción múltiple con 20 preguntas, cada una con 4 opciones, un estudiante responde al azar. Usa la función dbinom() para calcular la probabilidad de que el estudiante acierte exactamente 5 preguntas.\n",
+    "* Considera un grupo de 10 amigos. ¿De cuántas formas se pueden seleccionar 3 amigos para formar un subcomité?\n",
+    "* Hay 5 libros de matemáticas, 4 de física y 6 de química en un estante. ¿De cuántas maneras puedes seleccionar 2 libros de matemáticas, 1 de física y 2 de química?\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  },
+  "orig_nbformat": 4
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
